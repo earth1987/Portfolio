@@ -8,6 +8,6 @@ This portfolio contains a collection of data science projects completed as part 
 ## Projects
 
 **[Generating Data Visualisations from
-Natural Language Statements](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
+Natural Language Statements](https://github.com/earth1987/Generating-Data-Visualisations-from-Natural-Language-Statements)**
 
 The goal of this project was to develop a pre-trained transformer-based autoregressive language model capable of generating data visualisations from natural language statements.
