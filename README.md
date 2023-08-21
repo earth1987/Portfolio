@@ -2,8 +2,8 @@
 
 This portfolio contains a collection of data science projects completed as part of a MSc Data Science degree and my own continuing professional development.
 
-**Email**: [billypitchford@gmail.com](billypitchford@googlemail.com)
-**Tableau Public**: [billy.pitchford](https://public.tableau.com/app/profile/billy.pitchford)
+- **Email**: [billypitchford@gmail.com](billypitchford@googlemail.com)
+- **Tableau Public**: [billy.pitchford](https://public.tableau.com/app/profile/billy.pitchford)
 
 ## Projects
 
