@@ -10,12 +10,16 @@ This portfolio contains a collection of data science projects completed as part 
 **[Generating Data Visualisations from
 Natural Language Statements](https://github.com/earth1987/Generating-Data-Visualisations-from-Natural-Language-Statements)**
 
-The goal of this project was to develop a pre-trained transformer-based autoregressive language model capable of generating data visualisations from natural language statements.
+A pre-trained transformer-based autoregressive language model capable of generating data visualisations from natural language statements is developed.
 
-**[Game KPIs](https://public.tableau.com/app/profile/billy.pitchford/viz/GameKPIs/GameKPIs)**
+**[AB testing cookie cats](https://github.com/earth1987/ab-testing-cookie-cats)**
 
-The goal of this project was to develop a dashboard displaying key metrics on computer game performance. These include in-game, performance, engagement and finance metrics.
+An AB test is used to evaluate level design for the Cookie Cats video game.
 
-**[University Rankings](https://public.tableau.com/app/profile/billy.pitchford/viz/Universityrankings_16921991116450/Home)**
+**[Time series analysis](https://github.com/earth1987/time-series-stock-prices)**
 
-The goal of this project was to develop a suite of dashboards summarising the University of Bristol's performance in the Guardian University Guide relative to other Russell Group providers.
+An ARIMA time series model is trained to predict stock prices for Ubisoft.
+
+**[Learning app KPIs](https://public.tableau.com/views/LearningappKPIs/GameKPIs?:language=en-US&:display_count=n&:origin=viz_share_link)**
+
+An interactive dashboard displaying key performance metrics for a gamiefied learning app. Themes include in-game stats, performance, engagement and finance metrics.
