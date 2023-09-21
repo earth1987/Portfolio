@@ -18,7 +18,7 @@ An AB test is used to evaluate level design for the Cookie Cats video game.
 
 **[Time series analysis](https://github.com/earth1987/time-series-stock-prices)**
 
-An ARIMA time series model is trained to predict stock prices for Ubisoft.
+An ARIMA time series model is trained to predict stock prices for Nintendo.
 
 **[Learning app KPIs](https://public.tableau.com/views/LearningappKPIs/GameKPIs?:language=en-US&:display_count=n&:origin=viz_share_link)**
 
