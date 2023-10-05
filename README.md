@@ -14,7 +14,7 @@ An AB test is used to evaluate level design for the Cookie Cats video game.
 **[Generating Data Visualisations from
 Natural Language Statements](https://github.com/earth1987/Generating-Data-Visualisations-from-Natural-Language-Statements)**
 
-The creation of charts and dashboards requires data manipulation and visualisation expertise. This inhibits many users’ ability to create bespoke content and perform new analyses. The goal of this project was to develop a pre-trained transformer-based autoregressive language model capable of generating data visualisations from natural language statements. The models tested include GPT-Neo-125M, GPT-Neo-1.3B, GPT-Neo-2.7B and GPT-J-6B.
+The goal of this project was to develop a pre-trained transformer-based autoregressive language model capable of generating data visualisations from natural language statements. The models tested include GPT-Neo-125M, GPT-Neo-1.3B, GPT-Neo-2.7B and GPT-J-6B.
 
 **[Time series analysis](https://github.com/earth1987/time-series-stock-prices)**
 
