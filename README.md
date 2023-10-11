@@ -4,7 +4,7 @@ This portfolio contains a collection of data science projects completed as part 
 
 - **Email**: [billypitchford@gmail.com](billypitchford@googlemail.com)
 - **Tableau Public**: [billy.pitchford](https://public.tableau.com/app/profile/billy.pitchford)
-- **Google Cloud Certifications**: [profile](https://www.cloudskillsboost.google/profile/badges)
+- **Google Cloud Certifications**: [profile](https://www.cloudskillsboost.google/public_profiles/e9f6420d-73e1-4837-8e6a-ef0d1d4f5f62)
 
 ## Projects
 
