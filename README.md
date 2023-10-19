@@ -26,6 +26,7 @@ A pre-trained transformer-based autoregressive language model capable of generat
 An interactive dashboard displaying key performance metrics for a gamiefied learning app. Themes include in-game stats, performance, engagement and finance metrics.
 
 **[Price prediction using regression](https://github.com/earth1987/house-price-regression)**
+
 Regression models are used to predict house prices in King County, USA. The algorithms tested include ordinary least squares and Lasso Regression.
 
 **[Time series analysis](https://github.com/earth1987/time-series-stock-prices)**
