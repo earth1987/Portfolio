@@ -27,7 +27,7 @@ An interactive dashboard displaying key performance metrics for a gamiefied lear
 
 **[Price prediction using regression](https://github.com/earth1987/house-price-regression)**
 
-Regression models are used to predict house prices in King County, USA. The algorithms tested include ordinary least squares and Lasso Regression.
+Regression models are used to predict house prices in King County, USA. The algorithms tested include ordinary least squares, ridge regression and LASSO Regression.
 
 **[Time series analysis](https://github.com/earth1987/time-series-stock-prices)**
 
