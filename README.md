@@ -8,9 +8,19 @@ This portfolio contains a collection of data science projects completed as part 
 
 ## Projects
 
+### Statistical inference
+
 **[AB testing cookie cats](https://github.com/earth1987/ab-testing-cookie-cats)**
 
 An AB test is used to evaluate level design for the Cookie Cats video game.
+
+### Data visualisation
+
+**[Learning app KPIs](https://public.tableau.com/views/LearningappKPIs/GameKPIs?:language=en-US&:display_count=n&:origin=viz_share_link)**
+
+An interactive dashboard displaying key performance metrics for a gamiefied learning app. Themes include in-game stats, performance, engagement and finance metrics.
+
+### Machine learning
 
 **[Customer segmentation](https://github.com/earth1987/retail-customer-segmentation)**
 
@@ -21,14 +31,6 @@ Natural Language Statements](https://github.com/earth1987/Generating-Data-Visual
 
 A pre-trained transformer-based autoregressive language model capable of generating data visualisations from natural language statements is developed. The models tested include GPT-Neo-125M, GPT-Neo-1.3B, GPT-Neo-2.7B and GPT-J-6B.
 
-**[Learning app KPIs](https://public.tableau.com/views/LearningappKPIs/GameKPIs?:language=en-US&:display_count=n&:origin=viz_share_link)**
-
-An interactive dashboard displaying key performance metrics for a gamiefied learning app. Themes include in-game stats, performance, engagement and finance metrics.
-
-**[Movie recommendation system](https://github.com/earth1987/movie-recommender-als)**
-\n
-A movie recommendation system is developed using alternating least squares (ALS) in Spark.
-
 **[Price prediction using regression](https://github.com/earth1987/house-price-regression)**
 
 Regression models are used to predict house prices. Both linear models (ordinary least squares, ridge regression & LASSO Regression) and non-linear models (k-nearest neighbors, random forest & XGBoost) are tested.
@@ -36,6 +38,13 @@ Regression models are used to predict house prices. Both linear models (ordinary
 **[Time series analysis](https://github.com/earth1987/time-series-stock-prices)**
 
 An ARIMA time series model is trained to predict stock prices for Nintendo.
+
+### Machine learning in the cloud
+
+**[Movie recommendation system](https://github.com/earth1987/movie-recommender-als)**
+
+
+A movie recommendation system is developed using alternating least squares (ALS) in Spark.
 
 **[Topic modelling for survey feedback](https://github.com/earth1987/feedback-topic-modelling)**
 
