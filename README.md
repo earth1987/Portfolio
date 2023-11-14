@@ -25,6 +25,9 @@ A pre-trained transformer-based autoregressive language model capable of generat
 
 An interactive dashboard displaying key performance metrics for a gamiefied learning app. Themes include in-game stats, performance, engagement and finance metrics.
 
+**[Movie recommendation system](https://github.com/earth1987/movie-recommender-als)**
+A movie recommendation system is developed using alternating least squares (ALS) in Spark.
+
 **[Price prediction using regression](https://github.com/earth1987/house-price-regression)**
 
 Regression models are used to predict house prices. Both linear models (ordinary least squares, ridge regression & LASSO Regression) and non-linear models (k-nearest neighbors, random forest & XGBoost) are tested.
