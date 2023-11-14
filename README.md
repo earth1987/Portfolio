@@ -33,3 +33,7 @@ Regression models are used to predict house prices. Both linear models (ordinary
 
 An ARIMA time series model is trained to predict stock prices for Nintendo.
 
+**[Topic modelling for survey feedback](https://github.com/earth1987/feedback-topic-modelling)**
+
+The goal of this project was to demonstrate topic analyses on text comments from university students using Apache Spark. Topic analysis is conducted using Latent Dirichlet Allocation (LDA).
+
