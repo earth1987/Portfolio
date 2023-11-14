@@ -22,7 +22,7 @@ A pre-trained transformer-based autoregressive language model capable of generat
   
 Regression models are used to predict house prices. Both linear models (ordinary least squares, ridge regression & LASSO Regression) and non-linear models (k-nearest neighbors, random forest & XGBoost) are tested.
 
-**[Time series analysis](https://github.com/earth1987/time-series-stock-prices)**
+**[Stock price time series analysis](https://github.com/earth1987/time-series-stock-prices)**
   
 An ARIMA time series model is trained to predict stock prices for Nintendo.
 
