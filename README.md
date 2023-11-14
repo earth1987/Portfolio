@@ -18,7 +18,7 @@ Clustering algorithms are used to segment a diverse customer base into smaller, 
   
 A pre-trained transformer-based autoregressive language model capable of generating data visualisations from natural language statements is developed. The models tested include GPT-Neo-125M, GPT-Neo-1.3B, GPT-Neo-2.7B and GPT-J-6B.
 
-**[Price prediction using regression](https://github.com/earth1987/house-price-regression)**
+**[Price prediction using linear & non-linear regression](https://github.com/earth1987/house-price-regression)**
   
 Regression models are used to predict house prices. Both linear models (ordinary least squares, ridge regression & LASSO Regression) and non-linear models (k-nearest neighbors, random forest & XGBoost) are tested.
 
@@ -30,7 +30,7 @@ An ARIMA time series model is trained to predict stock prices for Nintendo.
 
 **[Movie recommendation system](https://github.com/earth1987/movie-recommender-als)**
 
-A movie recommendation system is developed using alternating least squares (ALS) in Spark.
+A movie recommendation system is developed using alternating least squares in Spark.
 
 **[Topic modelling for survey feedback](https://github.com/earth1987/feedback-topic-modelling)**
 
