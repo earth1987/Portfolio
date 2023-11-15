@@ -1,4 +1,4 @@
-# Data Science Portfolio - Dr Billy Pitchford
+# Data Science Portfolio - Dr. Billy Pitchford
 
 This portfolio contains a collection of data science projects completed as part of my own continuing professional development.
 
