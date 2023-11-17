@@ -20,7 +20,7 @@ A pre-trained transformer-based autoregressive language model capable of generat
 
 **[Price prediction using linear & non-linear regression](https://github.com/earth1987/house-price-regression)**
   
-Regression models are used to predict house prices. Both linear models (ordinary least squares, ridge regression & LASSO Regression) and non-linear models (k-nearest neighbors, random forest & XGBoost) are tested.
+Regression models are used to predict house prices. Both linear models (ordinary least squares, ridge & LASSO Regression) and non-linear models (k-nearest neighbors, random forest & XGBoost) are tested.
 
 **[Stock price time series analysis](https://github.com/earth1987/time-series-stock-prices)**
   
@@ -34,7 +34,7 @@ A movie recommendation system is developed using alternating least squares and i
 
 **[Topic modelling for survey feedback](https://github.com/earth1987/feedback-topic-modelling)**
 
-The goal of this project was to demonstrate topic analyses on survey feedback using Apache Spark. Topic analysis is conducted using Latent Dirichlet Allocation (LDA).
+Topic modelling on text feedback is demonstrated using Latent Dirichlet Allocation and implemented in Apache Spark via PySpark.
 
 ## Statistical inference
 
