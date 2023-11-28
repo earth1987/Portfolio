@@ -10,11 +10,14 @@ This portfolio contains a collection of data science projects completed as part 
 
 ## Machine learning
 
+**[Recommendation systems](https://github.com/earth1987/book-content-based-recommender)**
+The goal of this project was to develop a book recommendation system. Three content-based recommendation systems were created and benchmarked against each other. These systems were implemented using TF-IDF, word2vec, and Sentence-BERT, matching users to books based on their reading history.
+
 **[Customer segmentation](https://github.com/earth1987/retail-customer-segmentation)**
   
 Clustering algorithms are used to segment a diverse customer base into smaller, homogeneous groups based on shared characteristics. The algorithms tested include k-means, k-prototypes and hierarchical clustering.
 
-**[Generating Data Visualisations from Natural Language Statements](https://github.com/earth1987/Generating-Data-Visualisations-from-Natural-Language-Statements)**
+**[Generating data visualisations from natural language statements](https://github.com/earth1987/Generating-Data-Visualisations-from-Natural-Language-Statements)**
   
 A pre-trained transformer-based autoregressive language model capable of generating data visualisations from natural language statements is developed. The models tested include GPT-Neo-125M, GPT-Neo-1.3B, GPT-Neo-2.7B and GPT-J-6B.
 
