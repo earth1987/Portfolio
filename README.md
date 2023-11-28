@@ -11,6 +11,7 @@ This portfolio contains a collection of data science projects completed as part 
 ## Machine learning
 
 **[Recommendation systems](https://github.com/earth1987/book-content-based-recommender)**
+
 The goal of this project was to develop a book recommendation system. Three content-based recommendation systems were created and benchmarked against each other. These systems were implemented using TF-IDF, word2vec, and Sentence-BERT, matching users to books based on their reading history.
 
 **[Customer segmentation](https://github.com/earth1987/retail-customer-segmentation)**
