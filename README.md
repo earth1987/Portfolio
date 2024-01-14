@@ -37,7 +37,7 @@ An ARIMA time series model is trained to predict stock prices for Nintendo.
 
 **[2.1 Movie Recommendation System](https://github.com/earth1987/movie-recommender-als)**
 
-A movie recommendation system is developed using alternating least squares and implemented in Apache Spark via PySpark. Google Cloud Dataproc is used to deploy a Spark cluster during model training.
+A collaborative filtering based movie recommendation system is developed using alternating least squares and implemented in Apache Spark via PySpark. Google Cloud Dataproc is used to deploy a Spark cluster during model training.
 
 **[2.2 Topic Modelling for Survey Feedback](https://github.com/earth1987/feedback-topic-modelling)**
 
