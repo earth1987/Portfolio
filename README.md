@@ -21,11 +21,15 @@ Clustering algorithms are used to segment a diverse customer base into smaller, 
 
 A pre-trained transformer-based autoregressive language model capable of generating data visualizations from natural language statements is developed. The models tested include GPT-Neo-125M, GPT-Neo-1.3B, GPT-Neo-2.7B, and GPT-J-6B.
 
-**[1.4 Price Prediction Using Linear & Non-Linear Regression](https://github.com/earth1987/house-price-regression)**
+**[1.4 Predicting machine failure](https://github.com/earth1987/machine-failure)**
+
+Predicting machine failure is framed as a imbalanced binary classification problem. The following types of model are optimised and compared: Naive Bayes, Logistic Regression, Support Vector Machine, Random Forest and XGBoost. SMOTE (Synthetic Minority Over-sampling Technique) is also tested.
+
+**[1.5 Price Prediction Using Linear & Non-Linear Regression](https://github.com/earth1987/house-price-regression)**
 
 Regression models are used to predict house prices. Both linear models (ordinary least squares, ridge & LASSO Regression) and non-linear models (k-nearest neighbors, random forest & XGBoost) are tested.
 
-**[1.5 Stock Price Time Series Analysis](https://github.com/earth1987/time-series-stock-prices)**
+**[1.6 Stock Price Time Series Analysis](https://github.com/earth1987/time-series-stock-prices)**
 
 An ARIMA time series model is trained to predict stock prices for Nintendo.
 
