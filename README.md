@@ -33,6 +33,8 @@ Using regression models to predict house prices. Testing both linear models (ord
 
 Training an ARIMA time series model to forecast stock prices for Nintendo.
 
+<br>
+
 ## 2. Unsupervised Machine Learning
 
 **[2.1 Retail Customer Segmentation](https://github.com/earth1987/retail-customer-segmentation)**
