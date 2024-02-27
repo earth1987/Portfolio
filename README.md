@@ -11,7 +11,7 @@ This portfolio contains a collection of data science projects completed as part 
 
 **[1.1 Predictive & Econometric Modelling for Annual Savings](https://github.com/earth1987/predicting-annual-savings)**
 
-Annual net savings are predicted at customer level using Ridge Regression & Random Forests. Additionally, ordinary least squares is used to develop an econometric model to explain how explanatory variables each affect annual net savings.
+Annual net savings are predicted at customer level using Ridge Regression & Random Forests. Additionally, ordinary least squares is used to develop an econometric model to explain how explanatory variables each savings.
 
 **[1.2 Early Detection of Breast Cancer](https://github.com/earth1987/predict-breast-cancer)**
 
@@ -23,7 +23,7 @@ Predicting machine failure is framed as a imbalanced binary classification probl
 
 **[1.4 Classifying Type of Machine Failure](https://github.com/earth1987/machine-failure-type)**
 
-The task of predicting the type of machine failure is reframed as a multiclass classification problem. The objective was to classify machines into different failure categories. The predictive model developed couples SMOTE with a Random Forest.
+The task of predicting machine failure is reframed as a multiclass classification problem. The objective was to classify machines into different failure categories. The predictive model developed couples SMOTE with a Random Forest.
 
 **[1.5 Forecasting Property Values](https://github.com/earth1987/house-price-regression)**
 
@@ -33,11 +33,15 @@ Regression models are used to predict house prices. Both linear models (ordinary
 
 An ARIMA time series model is trained to forecast stock prices for Nintendo.
 
+<br>
+
 ## 2. Unsupervised Machine Learning
 
 **[2.1 Customer Segmentation](https://github.com/earth1987/retail-customer-segmentation)**
 
 Clustering algorithms are used to segment a diverse customer base into smaller, homogeneous groups based on shared characteristics. The algorithms tested include k-means, k-prototypes, and hierarchical clustering.
+
+<br>
 
 ## 3. Recommendation Systems
 
@@ -49,6 +53,8 @@ Three content-based book recommendation systems were created and benchmarked aga
 
 A collaborative filtering based movie recommendation system is developed using alternating least squares and implemented in Apache Spark via PySpark. Google Cloud Dataproc is used to deploy a Spark cluster during model training.
 
+<br>
+
 ## 4. Natural Language Processing
 
 **[4.1 Generating Data Visualizations from Natural Language Statements](https://github.com/earth1987/Generating-Data-Visualisations-from-Natural-Language-Statements)**
@@ -59,11 +65,15 @@ A pre-trained transformer-based autoregressive language model capable of generat
 
 Topic modelling on text feedback is demonstrated using Latent Dirichlet Allocation and implemented in Apache Spark via PySpark.
 
+<br>
+
 ## 5. Statistical Inference
 
 **[5.1 A/B Testing in Cookie Cats](https://github.com/earth1987/ab-testing-cookie-cats)**
 
 An A/B test is used to evaluate level design for the Cookie Cats video game.
+
+<br>
 
 ## 6. Data Visualization
 
